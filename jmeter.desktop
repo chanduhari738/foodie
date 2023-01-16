@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Jmeter
+Comment=Apache Jmeter
+Exec=/opt/jmeter/bin/jmeter
+Icon=/opt/jmeter.png
+Terminal=false
+Type=Application
